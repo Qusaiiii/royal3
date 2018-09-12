@@ -1,4 +1,4 @@
-const { Client, Util } = require('discord.js');
+const { Client, Util, Discord } = require('discord.js');
 
 const { PREFIX, GOOGLE_API_KEY } = require('./config.js');
 
